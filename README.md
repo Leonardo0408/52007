@@ -16,7 +16,18 @@ REQUISITOS PARA QUE FUNCIONE DE MANERA CORRECTA:
     https://www.oracle.com/java/technologies/downloads/#java11
     (Seleccionar Segun su Sistema Operativo )  
  5. Tener Instalado Antlr como extensión de VS code
-    ![Captura de pantalla 2025-05-16 133939](https://github.com/user-attachments/assets/82a93a72-6ab8-45be-8036-7ac51172eb28)
+   ![Captura de pantalla 2025-05-16 133939](https://github.com/user-attachments/assets/8e696f89-9d85-4469-9834-737c1bcc28ae)
+Importante: Luego de instalar la extensión reinicia VS Code para que tome los cambios.
+
+Instalacion del proyecto: Una vez ya instalados los requirimientos previos los siguiente es: 
+1.Configurar las preferencias de generación de código de ANTLR: ve al menú
+Archivo/Preferencias/Configuración ( CTL + ,) y busca las preferencias de ANTLR. Baja hasta
+la sección Antlr4:Generation y edita settings.json. 
+![Captura de pantalla 2025-05-16 134954](https://github.com/user-attachments/assets/9c548d40-4ea5-42df-a821-58ab552e8dae)
+ Borrar todo lo que se encuentre y reemplazar por : 
+ 
+
+
 
     
      
