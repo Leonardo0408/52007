@@ -6,7 +6,7 @@ ANALIZADOR DE EXPRESIONES LOGICAS CON ANTLR Y JAVASCRIPT:
    2.GENERAR EL ARBOL DE DERIVACION DE ESA EXPRESION.
    3.GENERA TABLA DONDE SE IDENTIFICA LOS LEXEMAS Y LOS TOKENS. 
    4.TRADUCE LA EXPRESION A SU EQUIVALENCIA EN JAVASCRIPT. 
-====================================================================
+===========================================================================================
 REQUISITOS PARA QUE FUNCIONE DE MANERA CORRECTA: 
  1. Tener instalado Node.js (16 o superior)
     https://nodejs.org/es
