@@ -30,6 +30,37 @@ la sección Antlr4:Generation y edita settings.json.
  
  
  Borrar todo lo que se encuentre y reemplazar por : 
+{"antlr4.generation":{
+"alternativeJar": "antlr-4.13.2-complete.jar",
+ "mode": "external",
+ "listeners": true,
+ "visitors": true,
+ "language": "JavaScript",
+ "outputDir": "./generated"
+ }}
+
+  Importante: Guarda el archivo de configuración antes de continuar (CTRL+S)
+
+  - Una vez instalado el ANTLR se debe clonar el proyecto desde el comando cmd ejecutando el siguiente comando
+
+    git clone https://github.com/52007/antlr-analyzer.git
+
+    - Una vez clonado cambiamos el directorio raiz del proyecto ejecutando el siguiente comando (CMD O POWERSHELL)
+       cd antlr-analyzer
+    - Despues ejecutamos el siguiente comando para abrirlo en VS code :
+        . code
+
+      ![Captura de pantalla (122)](https://github.com/user-attachments/assets/d8ebca0f-cafe-4da5-9af6-42d4862fa621)
+
+
+      - Si la instalacion se realizo correctamente se deberian ver el proyecto en VS code.
+
+FUNCIONAMIENTO DEL ANALIZADOR: 
+1. Al presionar sobre 
+
+
+ 
+
  
 
 
