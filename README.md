@@ -56,7 +56,7 @@ la sección Antlr4:Generation y edita settings.json.
 
   - Una vez instalado el ANTLR se debe clonar el proyecto desde el comando cmd ejecutando el siguiente comando
 
-    git clone https://github.com/52007/antlr-analyzer.git
+     git clone https://github.com/Leonardo0408/52007.git
 
     - Una vez clonado cambiamos el directorio raiz del proyecto ejecutando el siguiente comando (CMD O POWERSHELL):
 
