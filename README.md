@@ -35,6 +35,7 @@ la sección Antlr4:Generation y edita settings.json.
  
  
  Borrar todo lo que se encuentre y reemplazar por : 
+
 {"antlr4.generation":{
 
 "alternativeJar": "antlr-4.13.2-complete.jar",
