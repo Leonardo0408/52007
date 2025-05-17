@@ -111,9 +111,9 @@ FUNCIONAMIENTO DEL ANALIZADOR:
    d. El analisis respecto a la entrada, es decir determina si la entrada es valida o no y nos arrojara un "true" si la entrada es valida
 
     ![Captura de pantalla 2025-05-16 224119](https://github.com/user-attachments/assets/57c7ba11-aab8-495e-ac72-f82cd4faefdc)
-    ![Captura de pantalla 2025-05-16 224126](https://github.com/user-attachments/assets/4e1bd1ee-1a41-4b3f-9d2a-5642335e94d9)
+  ![Captura de pantalla 2025-05-16 224126](https://github.com/user-attachments/assets/4e1bd1ee-1a41-4b3f-9d2a-5642335e94d9)
 
-9. En caso de ser una entrada invalida(Lexica o sintacticamente) puesta previamente en el acrhivo input.txt (En este caso utilice la cadena p # q) debiendo mostrar lo siguiente:
+9. En caso de ser una entrada invalida(Lexica o sintacticamente) puesta previamente en el acrhivo input.txt(En este caso utilice la cadena p # q) debiendo mostrar lo siguiente:
 
     a. Tipo de Error Detectado (LEXICO O SINTACTICO) 
 
