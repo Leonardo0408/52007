@@ -117,17 +117,17 @@ FUNCIONAMIENTO DEL ANALIZADOR:
 
     a. Tipo de Error Detectado (LEXICO O SINTACTICO) 
 
-   ![Captura de pantalla 2025-05-16 224724](https://github.com/user-attachments/assets/511b9e06-8d72-42bd-918f-582b176f9e3c)
+      ![Captura de pantalla 2025-05-16 224724](https://github.com/user-attachments/assets/511b9e06-8d72-42bd-918f-582b176f9e3c)
 
 
-    b. Linea donde se produce el error
+     b. Linea donde se produce el error
 
 
- ![Captura de pantalla 2025-05-16 224816](https://github.com/user-attachments/assets/d0de621d-954f-4ab4-aad8-e54a3ab8df1f)
+      ![Captura de pantalla 2025-05-16 224816](https://github.com/user-attachments/assets/d0de621d-954f-4ab4-aad8-e54a3ab8df1f)
 
-   c. El motivo del Error
+    c. El motivo del Error
   
-   ![image](https://github.com/user-attachments/assets/e741ac31-ecbc-427f-b4b9-69007ceb5c41)
+      ![image](https://github.com/user-attachments/assets/e741ac31-ecbc-427f-b4b9-69007ceb5c41)
 
 
  
