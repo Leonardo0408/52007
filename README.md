@@ -90,6 +90,7 @@ FUNCIONAMIENTO DEL ANALIZADOR:
    (Esto dara la instruccion de arranque al programa)
 
 7. Una vez ejecutado el comando mostrara lo siguiente si entrada asignada en el input.txt es valida ( En este caso utilice la entrada ( p v q )
+
     a. Tabla de Tokens donde identificara cual es el Lexema y cual es el toquen asociado:
 
 
@@ -112,16 +113,20 @@ FUNCIONAMIENTO DEL ANALIZADOR:
     ![Captura de pantalla 2025-05-16 224119](https://github.com/user-attachments/assets/57c7ba11-aab8-495e-ac72-f82cd4faefdc)
     ![Captura de pantalla 2025-05-16 224126](https://github.com/user-attachments/assets/4e1bd1ee-1a41-4b3f-9d2a-5642335e94d9)
 
-8. En caso de ser una entrada invalida(Lexica o sintacticamente) puesta previamente en el acrhivo input.txt (En este caso utilice la cadena p # q) debiendo mostrar lo siguiente:
+9. En caso de ser una entrada invalida(Lexica o sintacticamente) puesta previamente en el acrhivo input.txt (En este caso utilice la cadena p # q) debiendo mostrar lo siguiente:
+
     a. Tipo de Error Detectado (LEXICO O SINTACTICO) 
 
    ![Captura de pantalla 2025-05-16 224724](https://github.com/user-attachments/assets/511b9e06-8d72-42bd-918f-582b176f9e3c)
 
-   b. Linea donde se produce el error
+
+    b. Linea donde se produce el error
+
 
  ![Captura de pantalla 2025-05-16 224816](https://github.com/user-attachments/assets/d0de621d-954f-4ab4-aad8-e54a3ab8df1f)
 
    c. El motivo del Error
+  
    ![image](https://github.com/user-attachments/assets/e741ac31-ecbc-427f-b4b9-69007ceb5c41)
 
 
