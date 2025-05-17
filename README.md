@@ -25,7 +25,8 @@ REQUISITOS PARA QUE FUNCIONE DE MANERA CORRECTA:
 
 Importante: Luego de instalar la extensión reinicia VS Code para que tome los cambios.
 
-Instalacion del proyecto: Una vez ya instalados los requirimientos previos los siguiente es: 
+Instalacion del proyecto: Una vez ya instalados los requirimientos previos los siguiente es
+
 1.Configurar las preferencias de generación de código de ANTLR: ve al menú
 Archivo/Preferencias/Configuración ( CTL + ,) y busca las preferencias de ANTLR. Baja hasta
 la sección Antlr4:Generation y edita settings.json. 
